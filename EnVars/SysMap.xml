@@ -11,5 +11,5 @@
     </Folder>
     <Folder path="EnVars" role="Structural and variable maps only"/>
   </Structure>
-  <SourceProject path="D:\SCRIPTS\CollectorBuyerPsych" role="Local Vite app: Psychological Matrix + research.html viewer + validate:refs"/>
+  <SourceProject path="ROOT:\CollectorBuyerPsych" role="Local Vite app: Psychological Matrix + research.html viewer + validate:refs"/>
 </SysMap>
