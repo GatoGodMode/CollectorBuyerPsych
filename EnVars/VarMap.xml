@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VarMap project="CollectorBuyerPsych" updated="2026-06-13">
+  <Var name="RESEARCH_DOC_PATH" value="docs/Neuro-Economic-Collectibles-Research.md" usedIn="README.md" purpose="Full study markdown"/>
+  <Var name="REFERENCES_JSON_PATH" value="references/references.json" usedIn="README.md,docs/Neuro-Economic-Collectibles-Research.md" purpose="Canonical bibliography"/>
+  <Var name="CITATION_COUNT" value="68" usedIn="README.md" purpose="Verified source count in references.json"/>
+  <Var name="PROFILE_REPO" value="https://github.com/GatoGodMode/GatoGodMode" usedIn="README.md" purpose="Builder profile link"/>
+</VarMap>

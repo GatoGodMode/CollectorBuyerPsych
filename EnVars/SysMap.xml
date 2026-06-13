@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SysMap project="CollectorBuyerPsych" updated="2026-06-13">
+  <Structure>
+    <File path="README.md" role="GitHub landing: thesis, study structure, evidence tiers, links to full essay"/>
+    <Folder path="docs" role="Published research artifacts">
+      <File path="docs/Neuro-Economic-Collectibles-Research.md" role="Full essay exported from research.html; 9 sections + conclusion"/>
+    </Folder>
+    <Folder path="references" role="Citation control">
+      <File path="references/references.json" role="68-source canonical bibliography with DOIs and claim tags"/>
+      <File path="references/references.schema.json" role="JSON schema for reference rows"/>
+    </Folder>
+    <Folder path="EnVars" role="Structural and variable maps only"/>
+  </Structure>
+  <SourceProject path="D:\SCRIPTS\CollectorBuyerPsych" role="Local Vite app: Psychological Matrix + research.html viewer + validate:refs"/>
+</SysMap>
